@@ -1,0 +1,51 @@
+body	{
+	font-family: sans-serif;
+}
+
+.card	{
+	margin: .5em;
+	border: 1px solid lightblue;
+	border-radius: 4px;
+	float: left;
+	max-width: 30%;
+}
+
+.header-top	{
+	border-bottom: 1px dotted lightgray;
+	text-align: center;
+}
+
+.info	{
+	text-align: justify;
+	margin: .5em;
+}
+
+.availability	{
+	background-color: #5E5E5A;
+	color: yellow;
+	padding-left: .25em
+}
+
+h2	{
+	margin: 0 0 .25em .15em;
+}
+
+.specs	{
+	font-weight: bold;
+	margin: .23em;
+}
+
+.image {
+	display: block;
+	margin: .25em auto;
+	max-width: 200px;
+	height: auto;
+	border-radius: 6px;
+
+}
+
+footer	{
+	font-style: italic;
+	font-size: .75em;
+	padding-left: .25em
+}
